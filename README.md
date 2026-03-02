@@ -1,2 +1,2 @@
 # Atividade_Git
-Repositório criado para atividade do SENAI
+Repositório criado para atividade do SENAI :)
